@@ -9,4 +9,4 @@ When you have servos with any light blocking material attached to them simply co
 ## Built With
 
 * [Arduino](https://www.arduino.cc/) - Arduino web site
-* [Thingiverse - shutters](https://maven.apache.org/) - 3D models of shutters and holders for servos
+* [Thingiverse - shutters](https://www.thingiverse.com/thing:1767151) - 3D models of shutters and holders for servos
